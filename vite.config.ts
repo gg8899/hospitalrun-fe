@@ -11,7 +11,7 @@ export default defineConfig({
       "@": path.resolve(__dirname, 'src')
     }
   },
-  base: '/hospitalrun-fe/',
+  // base: '/hospitalrun-fe/',
   // 跨域
   server: {
     proxy: {
